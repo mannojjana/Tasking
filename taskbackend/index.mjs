@@ -22,9 +22,9 @@ app.use((req,res,next)=>{
     }
     next();
 });
-app.use("/",(req,res,next)=>{
-    res.send("home");
-})
+// app.use("/",(req,res,next)=>{
+//     res.send("home");
+// })
 app.use('/api/auth.js', router);
 app.use('/api/tasks.js', trouter);
 const corsOptions ={
