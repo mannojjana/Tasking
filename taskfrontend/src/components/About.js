@@ -5,16 +5,16 @@ const AboutMe = () => {
         <div className="about-me-container">
             <h1>Welcome to Taskify! 🚀</h1>
             <p>
-                I'm thrilled to introduce myself as the creator of this platform. My name is Manoj kumar jana, and I'm a final year Computer Science at NIT Warangal. With a deep passion for technology and a curious mind, I embarked on a journey to develop Taskify, a comprehensive task organizing website powered by the MERN stack.
+                I'm Glad to introduce myself as the creator of this platform. My name is Manoj kumar jana, I'm a final year Computer Science student at NIT Warangal. With a deep passion for technology, I embarked on a journey to develop Taskify, a comprehensive task organizing website powered by the MERN stack.
             </p>
             <p>
-                Throughout my academic journey, I've cultivated a solid understanding of various programming languages, including C++, and delved deep into the realms of data structures, computer networks, and web development. My experiences at NIT Warangal have honed my skills and fueled my desire to create impactful solutions.
+                Throughout my academic journey, I've cultivated a solid understanding of Computer science fundamentals, including web development. My experiences at NIT Warangal have honed my skills and fueled my desire to create impactful solutions.
             </p>
             <p>
                 Taskify is more than just a project—it's a reflection of my dedication to streamlining productivity and organizing tasks efficiently. By leveraging the power of the MERN stack, I've crafted a user-friendly platform that simplifies task management, allowing users to prioritize, track, and accomplish tasks with ease.
             </p>
             <p>
-                Whether you're a student, a professional, or an entrepreneur, Task Hub is designed to empower you on your journey towards success. Join me as we embark on this exciting adventure of productivity and efficiency!
+                Whether you're a student, a professional, or an entrepreneur, Taskify is designed to empower you on your journey towards success. Join me as we embark on this exciting adventure of productivity and efficiency!
             </p>
             <p>
                 Thank you for visiting Taskify. Together, let's unlock the potential within each task and conquer our goals!
