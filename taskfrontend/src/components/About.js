@@ -23,7 +23,7 @@ const AboutMe = () => {
             <p>
       manojkumar59095@gmail.com<br />
       
-     <a href='https://github.com/singh-gurpreet666' target='_blank' rel="noreferrer" >GitHub Profile</a><br/>
+     <a href='https://github.com/mannojjana' target='_blank' rel="noreferrer" >GitHub Profile</a><br/>
       <a href='https://www.linkedin.com/in/manoj-kumar-jana-b1b720237' target='_blank' rel="noreferrer" >LinkedIn Profile</a>
       </p>
         </div>

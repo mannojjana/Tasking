@@ -7,7 +7,7 @@ function Signup(props) {
     const HandleSubmit=async(e)=>{
         e.preventDefault();
         const {name,email,password}=credentials;
-        const response = await fetch("https://taskhub-uvor.onrender.com/api/auth.js/createuser",{
+        const response = await fetch("https://tasking-pjo6.onrender.com/api/auth.js/createuser",{
             method:"POST",
             headers:new Headers({
                 "Content-type": "application/json"
@@ -33,7 +33,7 @@ function Signup(props) {
 return (
         <div className="signup-container">
             <div className="signup-box">
-                <h2 className="signup-title">Unlock productivity and streamline your tasks with TaskHub</h2>
+                <h2 className="signup-title">Unlock productivity and streamline your tasks with Taskify</h2>
                 <p className="signup-subtitle">Sign up now to start conquering your to-do list!</p>
                 <form onSubmit={HandleSubmit}>
                     <div className="form-group">
